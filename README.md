@@ -47,6 +47,14 @@ Otro caso que se puede dar es querer volver a una modificación en concreto, las
 
 Con este comando podremos hacer una copia en nuestro directorio si hemos sufrido, por ejemplo, un borrado de todo el material. Cuando ingresamos **git clone más la url** recibiremos una copia exacta de los archivos eliminados dentro del directorio donde sufrimos el desastre.
 
+#Parte B del ejercicio:
+
+En esta parte me ha vuelto a dar los mismos errores que en la parte A. Cuando voy a subir algo al Git no me lo permite y debo realizarlo a mano pero en cambio me dice que el directorio está creado. No sé dónde puede recidir el problema ni su solución, la investigación no ha dado frutos.
+Aquí adjunto la consola con la información para mostrar que está creado el directorio y demás.
+
+![image](https://user-images.githubusercontent.com/114742418/201474942-5b64323b-74fd-468d-bb5c-3fe93d6bfe14.png)
+
+![image](https://user-images.githubusercontent.com/114742418/201474956-60f2079e-7c28-4b07-8673-a0db79b4488a.png)
 
 
 
