@@ -41,6 +41,12 @@ Pero si en el caso de que hayamos realizado un add previamente y nos veamos obli
 
 Otro caso que se puede dar es querer volver a una modificación en concreto, las cuales están numeradas con un identificador. Este identificador nos ayudará a la hora de aplicar el comando de tal manera: **git checkout y el identificador.**
 
+## Git Clone
+
+![image](https://user-images.githubusercontent.com/114742418/201473946-f4de84ad-fabd-40e0-a42b-2a09ec3fc78c.png)
+
+Con este comando podremos hacer una copia en nuestro directorio si hemos sufrido, por ejemplo, un borrado de todo el material. Cuando ingresamos **git clone más la url** recibiremos una copia exacta de los archivos eliminados dentro del directorio donde sufrimos el desastre.
+
 
 
 
