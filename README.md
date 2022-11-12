@@ -35,6 +35,12 @@ Con este comando podemos ver una lista de los diferentes cambios realizados y en
 
 ![image](https://user-images.githubusercontent.com/114742418/201470621-4bda99f8-183b-4d42-9012-557c90f730da.png)
 
+#### Si lo que buscamos es retroceder después de un cambio realizado pero teniendo en cuenta que no hemos hecho un add deberemos aplicar el comando:
+<Git checkout más el nombre del archivo>.
+Pero si en el caso de que hayamos realizado un add previamente y nos veamos obligados a retrocer en la línea de modificaciones se puede hacer un reset, para ello Git nos ofrece el comando: <git reset head más el nombre del archivo>.
+
+Otro caso que se puede dar es querer volver a una modificación en concreto, las cuales están numeradas con un identificador. Este identificador nos ayudará a la hora de aplicar el comando de tal manera: < git checkout y el identificador >.
+
 
 
 
