@@ -31,15 +31,15 @@ Traslada los archivos del área de ensayo al repositorio local. En este último 
 Con este comando podemos ver una lista de los diferentes cambios realizados y en la rama que han sido efectuados, en este caso ha sido en la rama "master".
 
 ----------
-#### Si deseamos subir los archivos a un repositorio de GitHub o GitLab debemos crear éste primeramente asignándole un nombre, lo creamos y después copiaremos la url que nos ha asignado para luego pegarla en la consola de Git.
+**Si deseamos subir los archivos a un repositorio de GitHub o GitLab debemos crear éste primeramente asignándole un nombre, lo creamos y después copiaremos la url que nos ha asignado para luego pegarla en la consola de Git.**
 
 ![image](https://user-images.githubusercontent.com/114742418/201470621-4bda99f8-183b-4d42-9012-557c90f730da.png)
 
 Si lo que buscamos es retroceder después de un cambio realizado pero teniendo en cuenta que no hemos hecho un add deberemos aplicar el comando:
-** <Git checkout más el nombre del archivo>. **
-Pero si en el caso de que hayamos realizado un add previamente y nos veamos obligados a retrocer en la línea de modificaciones se puede hacer un reset, para ello Git nos ofrece el comando: ** <git reset head más el nombre del archivo>. **
+**<Git checkout más el nombre del archivo>.**
+Pero si en el caso de que hayamos realizado un add previamente y nos veamos obligados a retrocer en la línea de modificaciones se puede hacer un reset, para ello Git nos ofrece el comando: **<git reset head más el nombre del archivo>.**
 
-Otro caso que se puede dar es querer volver a una modificación en concreto, las cuales están numeradas con un identificador. Este identificador nos ayudará a la hora de aplicar el comando de tal manera: ** < git checkout y el identificador >. **
+Otro caso que se puede dar es querer volver a una modificación en concreto, las cuales están numeradas con un identificador. Este identificador nos ayudará a la hora de aplicar el comando de tal manera: **< git checkout y el identificador >.**
 
 
 
