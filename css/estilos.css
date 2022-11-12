@@ -1,0 +1,50 @@
+table {
+    font-family: arial, sans-serif;
+    border: 2.5px solid #979797;
+    width: 100%;
+    margin-top: 75px;
+    border-radius: 15px;
+    padding: 7px;
+    background-color: lightyellow;
+  }
+  td.programacion {
+      background-color: lightcoral;
+  }
+
+  td.basededatos {
+      background-color: lightgreen;
+  }
+  
+  td.desarrollo {
+      background-color: lightpink;
+  }
+  td.marcas {
+      background-color: lightgray;
+  }
+
+  td.fol {
+      background-color: rgb(176, 179, 147);
+  }
+
+  td.sistemas {
+      background-color: lightseagreen;
+  }
+
+  td.tutoria {
+      background-color: lightsalmon;
+  }
+
+  td.horas {
+      background-color: lightblue;
+  }
+
+  td.noclase{
+      background-color: whitesmoke;
+      text-align: center;
+  }
+  td, th {
+    border: 2px solid #979797;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+  }
