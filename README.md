@@ -60,7 +60,7 @@ Aquí adjunto la consola con la información para mostrar que está creado el di
 **Me informa que hay un segundo push en mi rama principal de Github, o así lo entiendo, y además que la rama no está protegida**
 
 
-#REVISAR COMMITS REALIZADOS
+# REVISAR COMMITS REALIZADOS
 
 Realizaremos un **git log --oneline** para comprobar los commit que tenemos realizados con sus respectivas modificaciones e identificadores asignados a éstas:
 
