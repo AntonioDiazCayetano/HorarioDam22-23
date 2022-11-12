@@ -57,7 +57,7 @@ Aquí adjunto la consola con la información para mostrar que está creado el di
 
 ![image](https://user-images.githubusercontent.com/114742418/201474956-60f2079e-7c28-4b07-8673-a0db79b4488a.png)
 
-Segundo push en Github
+**Me informa que hay un segundo push en mi rama principal de Github, o así lo entiendo, y además que la rama no está protegida**
 
 
 #REVISAR COMMITS REALIZADOS
