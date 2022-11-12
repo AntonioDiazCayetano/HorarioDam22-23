@@ -49,15 +49,24 @@ Con este comando podremos hacer una copia en nuestro directorio si hemos sufrido
 
 #Parte B del ejercicio:
 
-En esta parte me ha vuelto a dar los mismos errores que en la parte A. Cuando voy a subir algo al Git no me lo permite y debo realizarlo a mano pero en cambio me dice que el directorio está creado. He visto que tengo realizado un push en Github y eso no me permite subir nada a Gitlab ya que me da error, pero tampoco sé eliminar ese push:
-Aquí adjunto la consola con la información para mostrar que está creado el directorio y demás.
+# GitLab
 
-![image](https://user-images.githubusercontent.com/114742418/201476826-07600d0d-0dd4-4404-b857-d122670a9bfe.png)
+1. El primer paso sería cambiar el repositorio remoto de Github a Gitlab y para eso tenemos el comando **git remote add gitlab** continuado de la **url del repositorio en Gitlab**
 
+![image](https://user-images.githubusercontent.com/114742418/201477787-e035e456-b3be-4974-8eea-2e9c9ae0eb73.png)
 
-![image](https://user-images.githubusercontent.com/114742418/201474956-60f2079e-7c28-4b07-8673-a0db79b4488a.png)
+2. Ejecutariamos el comando **git branch -M main** en este segundo paso:
 
-**Me informa que hay un segundo push en mi rama principal de Github, o así lo entiendo, y además que la rama no está protegida**
+![image](https://user-images.githubusercontent.com/114742418/201477906-204507a3-4492-411c-9044-468857f79857.png)
+
+3. En este último paso ya entraría el comando **git push -u gitlab main** donde nos va a introducir todos los archivos del directorio en nuestro repositorio de Gitlab:
+
+![image](https://user-images.githubusercontent.com/114742418/201477956-2b980a98-a203-4bec-890e-7373345ef2ce.png)
+
+4. Aquí tenemos ya nuestros archivos en el repositorio de Gitlab:
+
+![image](https://user-images.githubusercontent.com/114742418/201478070-bc877401-50cc-4dc9-aa74-85bc40fb5006.png)
+
 
 
 # REVISAR COMMITS REALIZADOS
