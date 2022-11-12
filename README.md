@@ -57,5 +57,28 @@ Aquí adjunto la consola con la información para mostrar que está creado el di
 ![image](https://user-images.githubusercontent.com/114742418/201474956-60f2079e-7c28-4b07-8673-a0db79b4488a.png)
 
 
+#REVISAR COMMITS REALIZADOS
+
+Realizaremos un **git log --oneline** para comprobar los commit que tenemos realizados con sus respectivas modificaciones e identificadores asignados a éstas:
+
+![image](https://user-images.githubusercontent.com/114742418/201475390-99b6edcf-83a9-42b5-b35b-87f6ad7b2cf2.png)
+
+Después de realizar un **git checkout más el identificador de la modificación** me encuentro en una línea de tiempo anterior:
+
+![image](https://user-images.githubusercontent.com/114742418/201475489-0a7b5917-aece-45b4-8abf-d018c78acb2b.png)
+
+Como podemos ver en la siguiente captura, me encuentro en el identificador elegido:
+
+![image](https://user-images.githubusercontent.com/114742418/201475523-1dd69a9b-865c-461d-b239-166b2fad06cb.png)
+
+Hemos vuelto al principio de la rama master y para ello hemos usado el comando **git checkout master**
+
+![image](https://user-images.githubusercontent.com/114742418/201475578-99e48bf9-54bb-41fc-8da7-d27c7147d80d.png)
+
+En el último paso podemos ver que todo continúa en su lugar y nada ha sido modificado, para divisar esto se aplica el comando **git log --oneline**:
+
+![image](https://user-images.githubusercontent.com/114742418/201475635-5eed2ba7-2240-43df-b82a-26c47bfef44e.png)
+
+
 
 
